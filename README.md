@@ -2,8 +2,6 @@
 
 ![](https://img.shields.io/badge/dependencis-MATLAB%20R2020a-brightgreen)
 
-[English](README.md) | [中文](README-CN.md)
-
 |             |                                                     |
 | ----------- | --------------------------------------------------- |
 | Course name | Financial Computation with MATLAB                   |
